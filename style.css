@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(224, 229, 234);
+    font-size: 15px;
+    margin: 100px
+}
+div.mycontainer {
+    background-color: hsl(188, 65%, 93%) ;
+     border:1px solid  rgb(224, 229, 234) ;  
+    height: 500px;
+    box-shadow: 20px 25px 30px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}
+div.mycontainer div {
+    width:33%;  
+    float:center;
+}
+.card{
+    background-color: white;
+    border:1px solid  rgb(224, 229, 234) ;  
+    border-radius: 20px;
+    height: 380px;
+    text-align: center;
+    margin-left: auto;
+    max-width: 250px;
+    margin-right: auto;
+    margin-top: 75px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
